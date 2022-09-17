@@ -1,4 +1,4 @@
-Simple Notes App
+> Simple Notes App
 
 <b> Problem Statement: </b>
 Taking good notes in class is an important part of academic success in college. Actively taking notes during class can help you focus and better understand main concepts. ... Good note-taking will improve your active listening, comprehension of material, and retention.
